@@ -1,6 +1,6 @@
 # Exp No: 36  
 ## Circular Queue 
-https://github.com/hsmukesh/Module-14/edit/main/CIRCULAR%20QUEUE.md
+
 ### AIM  
 To write a Python program with a function to insert float values into a Circular Queue.
 
